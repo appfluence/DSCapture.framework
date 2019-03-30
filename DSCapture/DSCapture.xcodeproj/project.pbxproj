@@ -186,10 +186,11 @@
 			};
 			buildConfigurationList = DF026E7314E0144500AA9DFD /* Build configuration list for PBXProject "DSCapture" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = DF026E6E14E0144500AA9DFD;
 			productRefGroup = DF026E7B14E0144500AA9DFD /* Products */;
